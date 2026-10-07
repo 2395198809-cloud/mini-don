@@ -1,0 +1,13 @@
+# Foundry
+contracts/cache/
+contracts/out/
+
+# Go
+node/mini-don-node
+node/*.exe
+node/*.test
+
+# System & OS
+.DS_Store
+*.swp
+*.log
